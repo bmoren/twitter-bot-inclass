@@ -2,7 +2,9 @@
 
 In this repo you'll find 3 files with 3 directions you might take this project.
 
-before using this reposotiory `cd` into it in your terminal then follow the commands/ideas below:
+before using this repository `cd` into it in your terminal
+then run `npm install` to install the dependencies
+then take a look at one of the strategies below:
 
 1. madlibs – using arrays to build sentence structure `node server_mad_libs.js`
 
